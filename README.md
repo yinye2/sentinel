@@ -16,7 +16,7 @@ Heliosphere Guard is a decentralized blockchain-based platform for real-time spa
 
 ### Core Contracts
 
-1. **Heliosphere Sentinel** (`heliosphere-sentinel.clar`)
+1. **Heliosphere Sentinel** (`sentinel.clar`)
    - Space weather event registration and tracking
    - Alert distribution system with intensity thresholds
    - Observer subscription management
