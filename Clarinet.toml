@@ -5,6 +5,16 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.magnetosphere-monitor]
+path = 'contracts/magnetosphere-monitor.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.orbital-defense-grid]
+path = 'contracts/orbital-defense-grid.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.sentinel]
 path = 'contracts/sentinel.clar'
 clarity_version = 2
